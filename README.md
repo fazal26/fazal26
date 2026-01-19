@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @fazal26
 - 👀 I’m interested in Full Stack opportunities with React, React Native, Ruby on Rails, Angular and stuff.
-- 🌱 I’m currently working as a CTO at VendorJump.
 - 💞️ I’m open to remote opportunities.
 - 📫 Reach me out on mailfazalkarim@gmail.com
